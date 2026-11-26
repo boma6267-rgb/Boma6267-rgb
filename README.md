@@ -31,9 +31,15 @@ To become a professional Technical Writer and contribute to international softwa
 
 Projects
 
-- Mobile Banking Application User Guide
-- Software Troubleshooting Documentation
+1. EasyPay Mobile Banking Application – User Guide
 
+Created user documentation explaining mobile banking features, including money transfers, airtime and data purchases, electricity bill payments, and troubleshooting.
+
+2. E-commerce User Guide
+
+Created step-by-step documentation covering account registration, login, product search, shopping cart, payments, order tracking, and troubleshooting.
+
+Both projects demonstrate my growing skills in technical writing and software documentation.
 Opportunities
 
 Open to remote opportunities, collaboration, and professional growth.
