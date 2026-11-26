@@ -1,16 +1,40 @@
-## Hi there 👋
+Hi, I'm Destiny King Woke 👋
 
-<!--
-**boma6267-rgb/Boma6267-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Technical Writer | Software Documentation
 
-Here are some ideas to get you started:
+About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a graduate of Finance and Banking from the University of Port Harcourt, Nigeria.
+
+I am an aspiring Technical Writer passionate about technology and software documentation. I enjoy creating clear, simple, and user-friendly guides that help people understand software applications.
+
+I am currently building my skills through practical projects and continuous learning.
+
+Education
+
+- B.Sc. Finance and Banking
+- University of Port Harcourt
+- 2025
+
+Skills
+
+- Technical Writing
+- Software Documentation
+- User Guide Development
+- Troubleshooting Documentation
+- GitHub
+- Microsoft Word
+
+Career Goals
+
+To become a professional Technical Writer and contribute to international software and technology companies.
+
+Projects
+
+- Mobile Banking Application User Guide
+- Software Troubleshooting Documentation
+
+Opportunities
+
+Open to remote opportunities, collaboration, and professional growth.
+
